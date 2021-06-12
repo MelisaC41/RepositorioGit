@@ -1,0 +1,2 @@
+FicheroS.txt
+CarpetaCiega
